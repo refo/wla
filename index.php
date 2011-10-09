@@ -3,6 +3,7 @@
 
 $application = 'app';
 
+
 //$modules = '/home/xyz/kohana/ko3.2/mod';
 //$system = '/home/xyz/kohana/ko3.2/sys';
 
